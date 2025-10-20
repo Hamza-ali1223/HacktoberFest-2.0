@@ -1,4 +1,10 @@
-/.mvn/*
-/.idea/*
-/target/*
+
+/.idea/
+
+
+/.mvn/
+
+/target/
+
+
 .env
